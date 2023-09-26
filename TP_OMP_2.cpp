@@ -6,7 +6,7 @@
 // hesitating between eclipse and geany and switching from C to C++.
 // So, I am sorry you have only code to read and not much comments.
 // 
-// Cyrille Moulin
+// C. M.
 
 
 #include <iostream>
